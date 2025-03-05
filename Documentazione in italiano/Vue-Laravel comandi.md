@@ -201,5 +201,3 @@ si possono filtrare aggiungendo `--path=api`
 `php artisan make:view mails.contacts.message`
 
 ---
-
-Made with love by [Matteo](https://www.youtube.com/watch?v=JqIV1wSYhvM) and [Emiliano](https://www.youtube.com/watch?v=lFXp_15N1KU) &hearts;
