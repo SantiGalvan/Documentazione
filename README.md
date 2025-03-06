@@ -16,7 +16,7 @@ Questa repository raccoglie tutte le documentazioni che sono riuscito a recupera
 - [📘 Creating a Vue Repository with SASS, Bootstrap, FontAwesome, and Fontsource](./Documentation%20in%20english/Vue%20repo%20setup.md)
 - [📘 Creating a Laravel and Vue Repository](./Documentation%20in%20english/Vue-Laravel%20commands.md)
 - [📘 Cloning a Laravel Repository](./Documentation%20in%20english/Laravel%20repo%20cloning%20commands.md)
-- [📘 Creation of an npm package](./Documentation%20in%20english/Creation%20of%20an%20npm%20package.mds.md)
+- [📘 Creation of an npm package](./Documentation%20in%20english/Creation%20of%20an%20npm%20package.md)
 
 ### 📂 PDF Utili
 - [📄 Clonazione di un Repository Laravel](./pdf/Clonazione%20repo%20Laravel.pdf)
