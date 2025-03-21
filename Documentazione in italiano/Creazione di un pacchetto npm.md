@@ -57,7 +57,7 @@ Nel file `package.json` vanno aggiunte nuove chiavi
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    // Dipendenze del progetto
+    
   },
   "devDependencies": {
     "vite": "^3.0.0"
