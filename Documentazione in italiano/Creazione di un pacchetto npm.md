@@ -35,7 +35,7 @@ Nel file `package.json` vanno aggiunte nuove chiavi
 {
   "name": "nome-pacchetto",
   "version": "1.0.0",
-  "private": false, // Oppure ometti questa chiave
+  "private": false,
   "main": "dist/nome-pacchetto.cjs.js",
   "style": "dist/nome-pacchetto.css",
   "module": "dist/nome-pacchetto.esm.js",
@@ -60,7 +60,7 @@ Nel file `package.json` vanno aggiunte nuove chiavi
     // Dipendenze del progetto
   },
   "devDependencies": {
-    "vite": "^3.0.0" // Assicurati di avere Vite installato
+    "vite": "^3.0.0"
   }
 }
 ```
